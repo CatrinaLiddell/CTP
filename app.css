@@ -1,0 +1,181 @@
+
+#userPassword {
+    font-family: Palatino;
+    font-size: 20px;
+}
+
+body form h1 {
+    font-family: Palatino;
+    padding-left: 840px;
+}
+
+
+img {
+  width: 30%;
+  height: auto;
+  padding-left: 700px;
+}
+
+div.Cuisine {
+    font-family: Palatino;
+    font-size: 20px;
+    margin-top: -10px;
+    padding-left: 400px;
+}
+
+div.Cuisine input {
+    font-family: Palatino;
+    font-size: 20px;
+    
+}
+
+div.Delivery {
+    font-family: Palatino;
+    font-size: 20px;
+    margin-left: 800px;
+    margin-top: -10px;
+}
+
+div.Dietary {
+    font-family: Palatino;
+    font-size: 20px;
+    padding-left: 1200px;
+    margin-top: 45px;
+}
+
+div.Email {
+    font-family: Palatino;
+    font-size: 20px;
+    padding-left: 400px;
+}
+
+div.Email input {
+    font-family: Palatino;
+    font-size: 20px;
+}
+
+div.Hygiene {
+    font-family: Palatino;
+    font-size: 20px;
+    margin-left: 800px;
+    margin-top: -20px;
+}
+
+div.Name {
+    font-family: Palatino;
+    font-size: 20px;
+    margin-top: 60px;
+    padding-left: 400px;
+}
+
+div.Name input {
+    font-family: Palatino;
+    font-size: 20px;
+}
+
+div.Overview {
+    font-family: Palatino;
+    font-size: 20px;
+    margin-left: 800px;
+    margin-top: -20px;
+}
+
+div.Overview input {
+    font-family: Palatino;
+    font-size: 20px;
+    width: 400px;
+    margin-left: -60px;
+    height: 80px;
+}
+
+div.Password {
+    font-family: Palatino;
+    font-size: 20px;
+    padding-left: 400px;
+}
+
+div.Phone {
+    font-family: Palatino;
+    font-size: 20px;
+    padding-left: 1200px;
+    margin-top: -670px;
+}
+
+div.Phone input {
+    font-family: Palatino;
+    font-size: 20px;
+}
+
+div.Price {
+    font-family: Palatino;
+    font-size: 20px;
+    margin-left: 800px;
+    margin-top: -645px;
+}
+
+div.Restaurant {
+    font-family: Palatino;
+    font-size: 20px;
+    padding-left: 400px;
+}
+
+div.Restaurant input {
+    font-family: Palatino;
+    font-size: 20px;
+}
+
+div.Role {
+    font-family: Palatino;
+    font-size: 20px;
+    padding-left: 400px;
+}
+
+div.Vegan {
+    font-family: Palatino;
+    font-size: 20px;
+    margin-left: 1200px;
+    margin-top: 20px;
+}
+
+div.Vegetarian {
+    font-family: Palatino;
+    font-size: 20px;
+    margin-top: -25;
+    padding-left: 1200px;
+}
+
+div.Webiste {
+    font-family: Palatino;
+    font-size: 20px;
+    margin-left: 800px;
+    margin-top: -40px;
+
+}
+
+div.Webiste input {
+    font-family: Palatino;
+    font-size: 20px;
+}
+
+div.submit input {
+    background-color: #e9a486;
+    font-family: Palatino;
+    font-size: 30px;
+    margin-left: 1200px;
+    margin-top: 15px;
+
+}
+
+input[type=submit]:hover {
+  background-color: #eabeab;
+}
+
+
+
+div.Webiste {
+    
+}
+
+div.Phone {
+    
+}
